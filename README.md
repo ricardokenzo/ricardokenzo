@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ricardo Ota, and I'm a Computer Engineering student. I just finished my sophomore year, and I've been developing softwares since freshman year. <br/>
+I'm currently working on an Autonomous Vehicle Project at my university.
+I'm learning about Machine Intelligence Algorithms and NLPs
+:computer: My softwares are: Python, C, C#, HTML, CSS, JavaScript, PHP
+Reach me at: https://www.linkedin.com/in/ricardo-ota/
