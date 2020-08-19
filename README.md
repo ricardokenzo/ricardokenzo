@@ -19,4 +19,5 @@ I'm currently working on an Autonomous Vehicle Project at my university.
 I'm learning about Machine Intelligence Algorithms and NLPs
 <br/>
 :computer: My skills are: Python, C, C#, HTML, CSS, JavaScript (React, Node, React-Native), PHP
+<br/>
 Reach me at: https://www.linkedin.com/in/ricardo-ota/
