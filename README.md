@@ -18,6 +18,10 @@ My name is Ricardo Ota, and I'm a Computer Engineering student. I just finished 
 I'm currently working on an Autonomous Vehicle Project at my university.
 I'm learning about Machine Intelligence Algorithms and NLPs
 <br/>
-:computer: My skills are: Python, C, C#, HTML, CSS, JavaScript (React, Node, React-Native), PHP
+:computer: <br/> 
+Back-end <br/>
+Python, C, C++ <br/>
+Front-end <br/>
+HTML, CSS, JavaScript (React, Node, React-Native), PHP
 <br/>
 Reach me at: https://www.linkedin.com/in/ricardo-ota/
