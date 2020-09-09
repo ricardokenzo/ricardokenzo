@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ricardo Ota, and I'm a Computer Engineering student. I just finished my sophomore year, and I've been developing softwares since freshman year. <br/>
-I'm currently working on an Autonomous Vehicle Project at my university.
+My name is Ricardo Ota, and I'm a Junior Computer Engineering student and a Software Developer. <br/>
+I'm currently working on an Autonomous Vehicle Project at my university as the lead software developer.
 I'm learning about Machine Intelligence Algorithms and NLPs
 <br/>
 :computer: <br/> 
-Back-end <br/>
-Python, C, C++ <br/>
-Front-end <br/>
+**Back-end** <br/>
+Python, C, C++ <br/> <br/>
+**Front-end** <br/>
 HTML, CSS, JavaScript (React, Node, React-Native), PHP
 <br/>
 Reach me at: https://www.linkedin.com/in/ricardo-ota/
