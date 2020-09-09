@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ricardo Ota, and I'm a Junior Computer Engineering student and a Software Developer. <br/>
+My name is Ricardo Ota, I'm a Junior Computer Engineering student and a Software Developer. <br/>
 I'm currently working on an Autonomous Vehicle Project at my university as the lead software developer.
 I'm learning about Machine Intelligence Algorithms and NLPs
 <br/>
